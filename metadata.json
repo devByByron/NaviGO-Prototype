@@ -1,0 +1,7 @@
+{
+  "name": "NaviGO",
+  "description": "An AI-powered smart shopping navigator that organizes your grocery run using natural language processing and optimized routing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
